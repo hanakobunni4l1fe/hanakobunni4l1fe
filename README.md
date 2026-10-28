@@ -4,11 +4,11 @@
 
 ## About me ˙ . ꒷ 🍰 . 𖦹˙—
 
-* **Current Status:** I am a **3rd year Middle school** who neglected her **Academic life, performance and studies**, and suffering from lack of time management and easy distractions from devices like my laptop and phone. 
+* **Current Status:** I am a **3rd year Middle school** who neglected her **Academic life, performance and studies**, **suffering from both bullying and harassment of my classmates** and **suffering from lack of time management and easy distractions from devices like my laptop and phone**. 
 * **My Goals:** I plan to build websites or games just to achieve my dreams for the future and becoming a successful illustrator and content creator.
 * **My Experience:** I started at 13 since 2025; I've learned that debugging is hard, so I practice with AI—by taking their code and I will adjust it and make the project mine.
 * **Interests:** Hatsune Miku, Vocaloid music, pink and purple aesthetic, cats, Japanese culture and anything cute.
-* **Dislikes:** Myself (I have a huge insecurities of myself) 
+* **Dislikes:** Myself (I have a huge insecurities of myself) and my REAL actual name my parents gave me (real name is PRIVATE).
 * **Who am I?** Idk man 
 
 ## Future Projects ──★ ˙🍓 ̟ !! (Coming soon)
