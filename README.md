@@ -1,15 +1,15 @@
 # Hello I am Chiyunni 🌷 ⊹₊˚‧₊୨ᰔ୧₊‧˚₊⊹
 
-> "I'm a silly little internet kitty who loves to draw and build things"
+> "I'm a student who hates math"
 
 ## About me ˙ . ꒷ 🍰 . 𖦹˙—
 
-* **Current Status:** I am an **Artist** who is free in a **Programming Community**, and decided to take a break from tech after seeing the noise. 
-* **My Goals:** I plan to build apps and games to achieve my dreams for the future itself and compose a melody so people will appreciate my work.
-* **My Experience:** I started at 13; I've learned that debugging is hard, so I practice with AI.
-* **Interests:** Hatsune Miku, Vocaloid music, and pink aesthetic.
-* **Dislikes:** Laziness. 
-* **Who am I?** I am an artist who wants to compose music, build games or apps. 
+* **Current Status:** I am a **3rd year Middle school** who neglected her **Academic life, performance and studies**, and suffering from lack of time management and easy distractions from devices like my laptop and phone. 
+* **My Goals:** I plan to build websites or games just to achieve my dreams for the future and becoming a successful illustrator and content creator.
+* **My Experience:** I started at 13 since 2025; I've learned that debugging is hard, so I practice with AI—by taking their code and I will adjust it and make the project mine.
+* **Interests:** Hatsune Miku, Vocaloid music, pink, purple, cats, Japanese culture and anything cute.
+* **Dislikes:** Myself (I have a huge insecurities of myself) 
+* **Who am I?** I am an artist who wants to be an MV illustrator, also build games or website with code. 
 
 ## Future Projects ──★ ˙🍓 ̟ !! (Coming soon)
 
@@ -17,3 +17,8 @@
 * **All I have to do is shape my future with talent and passion.**
 * Making a game so everyone can play and enjoy. 
 * I could build an app for free for everyone.
+
+## Backstories How I got and quit into coding 
+* I quit coding in half of 2026 because of the toxic internet
+* I used to find coding and tech cool back in early 2026
+* I came back in coding when my classmate talks about Claude 
